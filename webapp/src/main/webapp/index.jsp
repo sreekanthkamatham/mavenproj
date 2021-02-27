@@ -1,3 +1,3 @@
-welcome to CICD via Jenkins scriptive pipeline
+welcome to CICD via Jenkins declarative pipeline
 
 
